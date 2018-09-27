@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 29th, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Layton Lewis)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(Lesson 3 Version Control lesson assesment.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Version control is system that allows you to record changes to a file or even set of files over time so that you can recall the ones you want.)
+2. (The basic functionality of git is to record any changes at any point in the project and save it to your own repository. )
 3. (Briefly describe a lesson/concept learned in this lesson.)
 
